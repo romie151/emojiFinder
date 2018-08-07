@@ -1,25 +1,19 @@
-#bigDiv {
-    border: 2px solid gray;
-    background-color: lightgrey;
-    border-radius: 25px;
+body, html {
+    height: 100%;
     text-align: center;
-    width: 250px;
-    margin: auto;
-    height: 680px;
-    overflow-y: scroll;
 }
 
-div {
-    border: 2px dotted gray;
-    background-color: lightgrey;
-    border-radius: 25px;
-    text-align: center;
-    text-orientation: center;
-    width: 125px;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    height: 150px;
+#search {
 
+}
+#emojiContainer {
+    border: 2px solid black;
+    margin: 20px;
+}
+
+#emoji{
+    border: solid 2px yellow;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
 }
